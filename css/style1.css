@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(70deg, #e6e6e6, #f7f7f7);
+    color: #514B64;
+    background-color: red !important;
+    
+    
+  }
+  
+  code {
+    background: #fff;
+    padding: 0.2rem;
+    border-radius: 0.2rem;
+    margin: 0 0.3rem;
+  }
+
+.card-deck{
+  margin-right: 10%;
+  margin-top: 10%;
+  margin-left: 10%;
+  margin-bottom: 10%;
+
+  /*box-shadow: 0px 4px 8px 0px #757575;
+  border-radius: 0px*/
+  
+}
+
+.bg-blue{
+  margin-top: 50%;
+}
+
+.tt-section{
+  background-image: url(../img/city_docavenue_web_color.png) !important;
+  padding: 100px 0;
+  background-position: center;
+  background-size: cover !important;
+  background-color: #4272d7;
+  
+}
+
+.body-section{
+  background-color: gray;
+}
